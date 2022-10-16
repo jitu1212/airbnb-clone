@@ -6,6 +6,8 @@ Home Page:-
 click Place to stay Then show
 ![Web capture_16-10-2022_132217_airbnb-clone-jitu netlify app](https://user-images.githubusercontent.com/98046486/196024827-5710edf2-64e3-445b-891a-18b0c0ef80b1.jpeg)
 
+Hosted Link :-https://airbnb-clone-jitu.netlify.app/
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
