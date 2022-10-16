@@ -4,7 +4,7 @@
 Home Page:-
 ![Web capture_16-10-2022_132028_airbnb-clone-jitu netlify app](https://user-images.githubusercontent.com/98046486/196024457-7aab3779-40b4-464e-b5c6-c4c017698fb9.jpeg)
 click Place to stay Then show
-![Web capture_16-10-2022_132028_airbnb-clone-jitu netlify app](https://user-images.githubusercontent.com/98046486/196024742-0c4ca2c2-a6da-4767-b4b0-c22894bb11b6.jpeg)
+![Web capture_16-10-2022_132217_airbnb-clone-jitu netlify app](https://user-images.githubusercontent.com/98046486/196024827-5710edf2-64e3-445b-891a-18b0c0ef80b1.jpeg)
 
 
 
