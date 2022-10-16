@@ -3,6 +3,8 @@
 
 Home Page:-
 ![Web capture_16-10-2022_132028_airbnb-clone-jitu netlify app](https://user-images.githubusercontent.com/98046486/196024457-7aab3779-40b4-464e-b5c6-c4c017698fb9.jpeg)
+click Place to stay Then show
+![Web capture_16-10-2022_132028_airbnb-clone-jitu netlify app](https://user-images.githubusercontent.com/98046486/196024575-817f3b3e-de2d-45a4-9741-24cf11232c9a.jpeg)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
